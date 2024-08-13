@@ -6,9 +6,7 @@ import {
 
 // Store your API key securely, e.g., using environment variables.
 const apiKey = process.env.REACT_APP_GEMINI_API_KEY;
-
-
-
+¸
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
