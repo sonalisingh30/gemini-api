@@ -19,10 +19,10 @@
 
 ## Screenshots
 1. **Home Page**
-   ![Home Page Screenshot](src/assets/screenshots/Desktop.png) *(Replace # with the path to your screenshot)*
+   ![Home Page Screenshot](src/assets/screenshots/Desktop.png) 
 2. **Home Page With Prompt**
    ![Home Page Prompt](src/assets/screenshots/Desktop_Prompt.png)
-2. **Home Page Responsive **
+3. **Home Page Responsive**
    ![Home Page Responsive ](src/assets/screenshots/Responsive.png) 
 
 
