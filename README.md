@@ -19,7 +19,7 @@
 
 ## Screenshots
 1. **Home Page**
-   ![Home Page Screenshot](#) *(Replace # with the path to your screenshot)*
+   ![Home Page Screenshot](src/assets/screenshots/Desktop.png) *(Replace # with the path to your screenshot)*
 
 2. **Result Display**
    ![Result Display Screenshot](#) *(Replace # with the path to your screenshot)*
