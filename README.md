@@ -26,7 +26,7 @@
    <img src="src/assets/screenshots/Desktop_Prompt.png" alt="Home Page Prompt" width="100%" />
 
 3. **Home Page Responsive**  
-   <img src="src/assets/screenshots/Responsive.png" alt="Home Page Responsive" width="100%" />
+   <img src="src/assets/screenshots/Responsive.png" alt="Home Page Responsive" width="50%" />
 
 
 
