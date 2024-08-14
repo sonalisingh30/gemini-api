@@ -18,12 +18,16 @@
 
 
 ## Screenshots
-1. **Home Page**
-   ![Home Page Screenshot](src/assets/screenshots/Desktop.png) 
-2. **Home Page With Prompt**
-   ![Home Page Prompt](src/assets/screenshots/Desktop_Prompt.png)
-3. **Home Page Responsive**
-   ![Home Page Responsive ](src/assets/screenshots/Responsive.png) 
+
+1. **Home Page**  
+   <img src="src/assets/screenshots/Desktop.png" alt="Home Page Screenshot" width="100%" />
+
+2. **Home Page With Prompt**  
+   <img src="src/assets/screenshots/Desktop_Prompt.png" alt="Home Page Prompt" width="100%" />
+
+3. **Home Page Responsive**  
+   <img src="src/assets/screenshots/Responsive.png" alt="Home Page Responsive" width="100%" />
+
 
 
 
