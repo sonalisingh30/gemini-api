@@ -2,8 +2,8 @@ import { createContext, useState } from "react";
 import run from '../config/Gemini'; // Import your chat function here
 
 export const Context = createContext();
-const ContextProvider = (props) => {
 
+const ContextProvider = (props) => {
     const [input, setInput] = useState('');
     const [recentPrompt, setRecentPrompt] = useState('');
     const [prevPrompt, setPrevPrompts] = useState([]);
@@ -29,18 +29,18 @@ const ContextProvider = (props) => {
         let response = '';
 
         try {
-            if (prompt !== undefined) {
+            if (prompt) {
+                console.log(prompt)
                 response = await run(prompt);
                 setRecentPrompt(prompt);
-                setPrevPrompts(prev => [...prev, input]);
-            } else {
-                
-                
-                setRecentPrompt(input);
-                response = await run(input);
-            }
 
-           
+                // Check if the prompt already exists in prevPrompt before adding it
+                if (!prevPrompt.includes(prompt)) {
+                    setPrevPrompts(prev => [...prev, prompt]);
+                }
+            } else {
+                setRecentPrompt(input);
+            }
 
             // Ensure response is a string before proceeding
             if (typeof response === 'string') {

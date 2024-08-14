@@ -1,7 +1,5 @@
 import {
     GoogleGenerativeAI,
-    HarmCategory,
-    HarmBlockThreshold,
 } from "@google/generative-ai";
 
 // Store your API key securely, e.g., using environment variables.
@@ -31,11 +29,15 @@ async function run(prompt) {
         });
 
         // Send the message with the correct format
-        const result = await model.generateContent(prompt);
+
+    
+            const result = await model.generateContent(prompt);
 
         const text = result.response.text();
 
         return text;
+     
+        
     } catch (error) {
         console.error("Error in run function:", error);
     }
