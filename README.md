@@ -2,8 +2,7 @@
 # GEMINI API Responsive Web Application
 
 ## Demo Links
-- [Live Demo](#) *(https://sonali-gemini-api-project.netlify.app/)*
-- [Video Walkthrough](#) *(Optional: Replace # with your video link)*
+- [Live Demo](https://sonali-gemini-api-project.netlify.app/)
 
 ## Tech Stacks
 - **Frontend**: React.js, HTML, CSS
