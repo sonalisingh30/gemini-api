@@ -1,5 +1,5 @@
-
 # GEMINI API Responsive Web Application
+**Description**: This project is a responsive web application built using React.
 
 ## Demo Links
 - [Live Demo](https://sonali-gemini-api-project.netlify.app/)
@@ -15,7 +15,7 @@
 - **Real-time Interaction**: Uses GEMINI API for real-time data fetching and interaction.
 - **Dynamic Content**: Displays dynamic content based on user input and API responses.
 - **Smooth Animations**: Implemented smooth transitions and animations for a better user experience.
-- **Code Highlighting**: Properly formatted code snippets and highlighted content.
+
 
 ## Screenshots
 1. **Home Page**
@@ -24,10 +24,5 @@
 2. **Result Display**
    ![Result Display Screenshot](#) *(Replace # with the path to your screenshot)*
 
-## Resources Used
-- **GEMINI API Documentation**: [GEMINI API](#) *(Replace # with the link to the documentation)*
-- **React.js Documentation**: [React.js](https://reactjs.org/docs/getting-started.html)
-- **CSS Tricks**: [CSS-Tricks](https://css-tricks.com/)
-- **VS Code Extensions**: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 
