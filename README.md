@@ -25,8 +25,7 @@
 2. **Home Page Responsive **
    ![Home Page Responsive ](src/assets/screenshots/Responsive.png) 
 
-4. **Result Display**
-   ![Result Display Screenshot](#) *(Replace # with the path to your screenshot)*
+
 
 
 
